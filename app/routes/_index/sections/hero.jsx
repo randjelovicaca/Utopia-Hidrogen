@@ -15,7 +15,7 @@ export default function Hero() {
               color='accent'
               className='pl-1'
             >
-              Summer 2024
+              Summer 2024 Alex
             </Text>
             <Heading font='text' size='8' color='white'>
               Building
